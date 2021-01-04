@@ -25,7 +25,11 @@ Uma aplicação com NODE, REACT, JAVASCRIPT e muito mais! Vem para consolidar os
 ~~~javascript
 npm install node
 ~~~
-
+### Em seguida startar a aplicação no terminal
+#### Siga para a pasta frontend cd ./frontend e digite 
+~~~ javascript
+npm start
+~~~~
 # Autor
 
 Lazaro Jose da Silva de Souza
