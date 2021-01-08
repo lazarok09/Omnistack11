@@ -11,6 +11,7 @@ exports.up = function(knex) {
 
   })
 };
+// caso der errado apagar a tabela
 
 exports.down = function(knex) {
   return knex.schema.dropTable('ongs')
