@@ -1,10 +1,7 @@
 import React, { useState } from "react";
-
 import api from "../../services/api.js";
-
 import "./styles.css";
 import logoImg from "../../assets/logo.svg";
-
 import { FaArrowLeft } from "react-icons/fa";
 import { Link, useHistory } from "react-router-dom";
 
@@ -16,7 +13,7 @@ export default function Register() {
   const [uf, setUf] = useState("");
 
   const history = useHistory();
-   
+
   async function handleRegister(e) {
     e.preventDefault();
 
@@ -29,12 +26,11 @@ export default function Register() {
     }; // enviar data pra a API
 
     try {
-      const response = await api.post('ongs', data);
+      const response = await api.post("ongs", data);
 
       alert(`Cadastro com sucesso, seu ID : ${response.data.id}`);
-      history.push('/');
-
-    } catch(error) {
+      history.push("/");
+    } catch (error) {
       alert("Erro no cadastro, tente novamente.");
     }
   }
