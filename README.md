@@ -30,19 +30,18 @@ Uma aplicação para cadastrar ONG's onde essas podem cadastrar os casos que est
   <br>
 </h4>
 
-## Telas
-
-
-### Aplicação WEB
+## Telas 
 <p align="center">
-    <img alt="Página de login" height="400" width="600" title="Página de login" src="readme/assets/logon.png">
-    <img alt="Cadastro de ONG" height="400" width="600" title="Cadastro"src="readme/assets/cadastro.png">
-    <img alt="Incidentes" height="400" width="600" title="Incidentes"src="readme/assets/incidents.png">
-    <img alt="Cadastro de incidentes" height="400" width="600" title="Cadastro de incidentes" src="readme/assets/incidentsCadastro.png">
+  <b>Aplicação WEB</b>
+  <br>
+    <img alt="Página de login"  title="Página de login" src="readme/assets/logon.png">
+    <img alt="Cadastro de ONG"  title="Cadastro"src="readme/assets/cadastro.png">
+    <img alt="Incidentes"  title="Incidentes"src="readme/assets/incidents.png">
+    <img alt="Cadastro de incidentes"  title="Cadastro de incidentes" src="readme/assets/incidentsCadastro.png">
 </p>
-
-### Aplicação Mobile
 <p align="center">
+  <b>Apliação Mobile</b>
+  <br>
     <img alt="Página de casos mobile" " title="Página de casos" src="readme/assets/mobile2.png">
     <img alt="Página de caso 1 - mobile"  title="Página de caso" src="readme/assets/mobile1.png">
      <img alt="Página de Botao Enviar email para o caso 1 - mobile" title="Página de Botao Enviar email para o caso 1" src="readme/assets/mobile3.png">
