@@ -1,11 +1,16 @@
 
+
+
 <h1 align="center">
-  Omnistack 11 :rocket:
-  <br>
-  <br>
-  <br>
-    <img alt="Logo da aplicação/Seu nome é Be the Hero" title="Be the Hero Logo" src="https://user-images.githubusercontent.com/39541807/77785801-7239e680-703b-11ea-868c-2b9ab4fb9101.png">
+Omnistack 11 :rocket:
+<img alt="Logo da aplicação/Seu nome é Be the Hero" title="Be the Hero Logo" src="https://user-images.githubusercontent.com/39541807/77785801-7239e680-703b-11ea-868c-2b9ab4fb9101.png">
+
 </h1>
+<span align="center">  
+  
+![GitHub](https://img.shields.io/github/license/LAZAROK09/omnistack11?color=purple&style=flat-square)
+
+</span>
 
 <h2> O que é ? <h3> Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar</h3> </h2>
 
@@ -117,6 +122,9 @@ npm start
 ~~~
 #### Próximo passo
 ##### Escanear o QR CODE que será gerado e automaticamente a aplicação ficara online desde que o backend e o mobile esteja inicializado.
+
+### Instrutor: O própio CTO da [Rocketseat](https://rocketseat.com.br/) :rocket: Diego
+
 # Autor
 Lazaro Jose da Silva de Souza <br>
 Estudante de Análise e Desenvolvimento de Sistemas pela UNINABUCO na modalidade EAD<br>
