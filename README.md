@@ -41,14 +41,14 @@ Uma aplicação para cadastrar ONG's onde essas podem cadastrar os casos que est
     <img alt="Página de caso 1 - mobile"  title="Página de caso" src="readme/assets/mobile1.png">
      <img alt="Página de Botao Enviar email para o caso 1 - mobile" title="Página de Botao Enviar email para o caso 1" src="readme/assets/mobile3.png">
 </p>
-<h3>Implementações no Back end </h3>
-<h4> Testes com Jest e Supertest </h4>
+<h3 align="center">Implementações no Back end </h3>
+<h4 align="center"> Testes com Jest e Supertest </h4>
 <p align="center">
     <img alt="imagem dos testes" title="teste1" height="600" width="800" src="readme/assets/test.png">
     <img alt="imagem dos testes" title="teste2" height="400" width="600" src="readme/assets/test2.png">
     <img alt="imagem dos testes" title="teste3" height="400" width="600" src="readme/assets/test3.png">
 </p>
-  <h4> Segments pra tratar dados inválidos </h4>
+  <h4 align="center"> Segments pra tratar dados inválidos </h4>
 <p align="center">
     <img alt="usando celebrate" title="framework celebrate - segments" src="readme/assets/segments.png">
 </p>
