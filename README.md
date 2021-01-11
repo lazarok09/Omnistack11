@@ -2,9 +2,10 @@
 
 
 <h1 align="center">
-Omnistack 11 :rocket:
+Omnistack 11 :rocket: <br>
+  <br>
+  <br>
 <img alt="Logo da aplicação/Seu nome é Be the Hero" title="Be the Hero Logo" src="https://user-images.githubusercontent.com/39541807/77785801-7239e680-703b-11ea-868c-2b9ab4fb9101.png">
-
 </h1>
 <span align="center">  
   
