@@ -4,39 +4,73 @@
   <br>
   <br>
   <br>
-    <img alt="" title="" src="https://user-images.githubusercontent.com/39541807/77785801-7239e680-703b-11ea-868c-2b9ab4fb9101.png">
+    <img alt="Logo da aplicação/Seu nome é Be the Hero" title="Be the Hero Logo" src="https://user-images.githubusercontent.com/39541807/77785801-7239e680-703b-11ea-868c-2b9ab4fb9101.png">
 </h1>
 
 <h2> O que é ? <h3> Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar</h3> </h2>
 
 
-# Sobre o projeto
+# Sobre o projeto :mag:
 Uma aplicação para cadastrar ONG's onde essas podem cadastrar os casos que estão precisando de doação. O usuário têm acesso a um aplicativo onde pode enviar um email ou uma mensagem por whatssap à respectiva ONG e seu caso. Essa aplicação vem para consolidar os aprendizados com uma stack poderozíssima que é a do React. Tudo isso nos faz ter o poder de construir uma aplicação para web e mobile, com comunicação em tempo real e consumindo o mesmo banco de dados SQL.
   
-<h4 align="center"> 
-   O presente projeto foi criado com as tecnologias mais atuais do mercado e por conta disso, teve como linguagem principal o Javascript
-  <img src="eadme/assets/js.png">
-  Para o ambiente Front end foi utilizado o conceito de <b>SPA</b> que vem do inglês para Single Page Aplication, basicamente um aplicativo web onde não há reload da página. (Twitter é um exemplo)
+<h4> 
+  Linguagem -> Javascript <img src="readme/assets/js.png" alt="linguagem de programação Javascript" height="18">
   <br>
-  <img src="https://i.imgur.com/5246ps9.png" alt="react" height="18"> React, <img alt="Linguagem Javascript com estilização node" height="18" src="https://i.imgur.com/5HNWTsK.png" alt="react-native" height="18"> React Native, <img src="https://i.imgur.com/mN4Typz.png" alt="node" height="18"> Node e <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" alt="sqlite" height="18"> SQLite </h3>
+  Ambiente do Back-end :open_file_folder: -> Node para o servidor   e SQLITE para banco de dados - <img src="readme/assets/nodejs.png" alt="Node" height="18"> :cupid: <img src="readme/assets/sqliteicon.png" alt="banco de dados sqlite" height="18">
+  <br>
+  Ambiente Front-end -> <img alt="icone do framework React" src="readme/assets/react.png" height="18">React
+  <br>
+ Ambiente Mobile -> <img src="readme/assets/reactnative.png" alt="node" height="18"> React Native
+  <br>
+</h4>
 
-# Linguagem
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" 
-   alt="Documentação da linguagem Javascript" width="80" height="80" border="20" /><span></span></a>
+## Telas
 
-# Principais aprendizados
-* servidor com node 
-* knex e migrations
-* testes com supertest e jest
-* celebrate pra tratativa de exceções no backend
 
-## veja as minhas anotações no notion da aula 2 onde foi criado o back end
+### Aplicação WEB
+<p align="center">
+    <img alt="Página de login" height="400" width="600" title="Página de login" src="readme/assets/logon.png">
+    <img alt="Cadastro de ONG" height="400" width="600" title="Cadastro"src="readme/assets/cadastro.png">
+    <img alt="Incidentes" height="400" width="600" title="Incidentes"src="readme/assets/incidents.png">
+    <img alt="Cadastro de incidentes" height="400" width="600" title="Cadastro de incidentes" src="readme/assets/incidentsCadastro.png">
+</p>
+
+### Aplicação Mobile
+<p align="center">
+    <img alt="Página de casos mobile" " title="Página de casos" src="readme/assets/mobile2.png">
+    <img alt="Página de caso 1 - mobile"  title="Página de caso" src="readme/assets/mobile1.png">
+     <img alt="Página de Botao Enviar email para o caso 1 - mobile" title="Página de Botao Enviar email para o caso 1" src="readme/assets/mobile3.png">
+</p>
+<h3>Implementações no Back end </h3>
+<h4> Testes com Jest e Supertest </h4>
+<p align="center">
+    <img alt="imagem dos testes" title="teste1" height="600" width="800" src="readme/assets/test.png">
+    <img alt="imagem dos testes" title="teste2" height="400" width="600" src="readme/assets/test2.png">
+    <img alt="imagem dos testes" title="teste3" height="400" width="600" src="readme/assets/test3.png">
+</p>
+  <h4> Segments pra tratar dados inválidos </h4>
+<p align="center">
+    <img alt="usando celebrate" title="framework celebrate - segments" src="readme/assets/segments.png">
+</p>
+<p align="center>
+<img src="https://i.imgur.com/tV5wawa.gif" width="600" height="800" />
+</p>
+                                                                    
+# Principais aprendizados :bow:
+* SPA
+* Rotas
+* Desenvolver mobile/web com o React
+* Servidor com node 
+* Knex e Migrations no banco de dados
+* Testes com Supertest e o Jest
+* Celebrate pra tratativa de exceções no backend
+
+## Visite minhas anotações :point_down: no Notion onde contém boa parte do que eu fiz e dá pra notar a evolução das anotações de acordo com os dias que passaram.
 <https://www.notion.so/Semana-omnistack11-85d8607213f346eaa1536f1985e31800>
 
 
 # Tecnologias e frameworks utilizadas em cada ambiente
-## Back end
+## Back end :package:	
 - Node  
 - Knex
 - Nodemon
@@ -45,14 +79,15 @@ Uma aplicação para cadastrar ONG's onde essas podem cadastrar os casos que est
 - SQLite3
 - Cors 
 - Celebrate
-## Front end
+- Software Insomnia
+## Front end :memo:
 - Node
 - React
 - Axios
 - React-router-dom
 - React-icons
 - Font awesome
-## Mobile
+## Mobile :iphone:	
 - Node
 - React Native
 - Expo
@@ -61,10 +96,10 @@ Uma aplicação para cadastrar ONG's onde essas podem cadastrar os casos que est
 - react-navigation
 - react-dom
 - expo-mail-composer
-- 
+
 # Como executar o projeto
-## Clonar o repositório
-### executar no terminal para as pastas frontend/mobile/backend
+## Clonar o repositório na sua máquina.
+### Executar no terminal para as pastas frontend/mobile/backend
 ~~~javascript
 npm install node
 ~~~
@@ -73,20 +108,22 @@ npm install node
 ~~~ javascript
 npm start
 ~~~~
-O mesmo acima para cd ../backend e cd ../mobile
+O mesmo acima para cd ../backend 
 ### Requisitos para rodar a versão mobile
 * Baixar o Expo na playstore
 ##### Executar o seguinte comando na pasta cd ../mobile
 ~~~javascript
 npm start
 ~~~
-#### Próximo passo -> escanear o QR CODE que será gerado e automaticamente a aplicação ficara online desde que o backend e o mobile esteja inicializado.
+#### Próximo passo
+##### Escanear o QR CODE que será gerado e automaticamente a aplicação ficara online desde que o backend e o mobile esteja inicializado.
 # Autor
 Lazaro Jose da Silva de Souza <br>
 Estudante de Análise e Desenvolvimento de Sistemas pela UNINABUCO na modalidade EAD<br>
 Entusiasta na arte de aprender algo do zero<br>
 https://www.linkedin.com/in/lazarok09
 ## Aprenda a usar o [markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) no seu GitHub
+## Use [emojis](https://github.com/ikatyang/emoji-cheat-sheet) no seu readme :P
 
 < / :heart: >
 
