@@ -9,7 +9,8 @@ Omnistack 11 :rocket: <br>
 </h1>
 <span align="center">  
   
-![GitHub](https://img.shields.io/github/license/LAZAROK09/omnistack11?color=purple&style=flat-square)
+![RepoSize](https://img.shields.io/github/repo-size/lazarok09/omnistack11?color=purple&logo=Bethehero&logoColor=white)
+![GitHub](https://img.shields.io/github/license/LAZAROK09/omnistack11?color=purple&style)
 
 </span>
 
