@@ -133,7 +133,7 @@ Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas :books
 
 https://www.linkedin.com/in/lazarok09
 ### Aprenda a usar o [markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) no seu GitHub
-#### Use [emojis](https://github.com/ikatyang/emoji-cheat-sheet) no seu readme :P
+#### Use [emojis](https://github.com/ikatyang/emoji-cheat-sheet) no seu readme :art:
 
 < / :heart: >
 
